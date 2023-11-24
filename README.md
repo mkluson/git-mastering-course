@@ -1,1 +1,1 @@
-# mastering-course
+# mastering
