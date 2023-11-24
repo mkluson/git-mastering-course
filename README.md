@@ -1,1 +1,1 @@
-# git-mastering-course
+# mastering-course
